@@ -1,0 +1,4 @@
+Cloud Computing is Of using services like servers , storage , database , networking .
+In this lot of servers are there connected with internet.It allows user to use the resourses without owing its hardware,they
+can use by pay-off.
+There are some cloud examples are AWS,Google Cloud.
